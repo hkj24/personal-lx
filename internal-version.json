@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "baseVersion": "2.12.2",
+  "baseVersion": "2.12.3",
   "version": "0.4.0",
   "desc": "当前内部版本，新增内部版本更新检测。",
   "publishedAt": "2026-07-04"
